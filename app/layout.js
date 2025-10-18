@@ -15,7 +15,7 @@ export const metadata = {
   title: "Kokoro Sushi | Authentic Japanese Cuisine",
   description: "Modern Japanese dishes and sushi in the heart of Toronto.",
   icons: {
-    icon: "/KokoriLogo.png", // path relative to /public folder
+    icon: "/favicon.ico", // path relative to /public folder
   },
 };
 
