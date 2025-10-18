@@ -1,7 +1,5 @@
 import Image from "next/image";
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Alan+Sans:wght@300..900&family=Protest+Revolution&display=swap');
-</style>
+
 
 export default function Navbar(){
 
